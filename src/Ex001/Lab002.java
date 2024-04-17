@@ -8,5 +8,6 @@ public class Lab002 {
         System.out.println("My age is 65");
         float f=3.14;
         System.out.println(f);
-    }
+        long g=456;
+            }
 }
