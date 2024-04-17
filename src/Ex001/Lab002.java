@@ -10,5 +10,6 @@ public class Lab002 {
         System.out.println(f);
         long g=456;
         System.out.println(g);
+        float f=3.14f;
             }
 }
