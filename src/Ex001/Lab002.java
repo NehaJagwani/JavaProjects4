@@ -5,5 +5,6 @@ public class Lab002 {
         System.out.println("added a new file");
         int x=65;
         System.out.println(x);
+        System.out.println("My age is 65");
     }
 }
