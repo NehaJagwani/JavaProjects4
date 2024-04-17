@@ -6,8 +6,9 @@ public class Lab002 {
         int x=65;
         System.out.println(x);
         System.out.println("My age is 65");
-        float f=3.14;
+        float f=3.14f;
         System.out.println(f);
         long g=456;
+        System.out.println(g);
             }
 }
